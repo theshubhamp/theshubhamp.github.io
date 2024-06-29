@@ -7,9 +7,8 @@ My experince includes building fleet orchestration, security / vulnerability man
 Here's a highlight of my public work:
 * YAQL Interpreter written in Rust: [yaql](https://github.com/theshubhamp/yaql)
 * SQL Database atop Badger KV: [fetadb](https://github.com/theshubhamp/fetadb)
-* Contributed Cookie JWT Auth to envoyproxy: https://github.com/envoyproxy/envoy/pull/17811, https://github.com/envoyproxy/envoy/pull/17985 & https://github.com/envoyproxy/envoy/pull/17721
+* Contributed Cookie JWT Auth to envoyproxy: [PR 1](https://github.com/envoyproxy/envoy/pull/17811), [PR 2](https://github.com/envoyproxy/envoy/pull/17985) & [PR 3](https://github.com/envoyproxy/envoy/pull/17721)
 
-
-See my [GitHub](https://github.com/theshubhamp/)
-
-Reach me on [LinkedIn](https://www.linkedin.com/in/shubhampatil/)
+Socials:
+* [GitHub](https://github.com/theshubhamp/)
+* [LinkedIn](https://www.linkedin.com/in/shubhampatil/)
