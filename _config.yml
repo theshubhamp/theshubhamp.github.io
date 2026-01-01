@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: "jekyll/minima@bf9ef98"
 
 title: Shubham's Scratchpad
 
