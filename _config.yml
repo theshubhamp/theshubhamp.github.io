@@ -12,5 +12,6 @@ minima:
       icon: linkedin
       url: "https://www.linkedin.com/in/shubhampatil/"
 
-author:
-  name: Shubham Patil
+site:
+  author:
+    name: Shubham Patil
