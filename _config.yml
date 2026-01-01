@@ -1,3 +1,16 @@
 theme: minima
 
-title: Shubham Patil
+title: Shubham's Scratchpad
+
+minima:
+  skin: dark
+  social_links:
+    - title: theshubhamp
+      icon: github
+      url: "https://github.com/theshubhamp"
+    - title: shubhampatil
+      icon: linkedin
+      url: "https://www.linkedin.com/in/shubhampatil/"
+
+author:
+  name: Shubham Patil
